@@ -56,7 +56,6 @@
      <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_eye.shader" />
      <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_fuku.shader" />
      <None Include="Assets\plants\dd\AlphaTest-Bumped.shader" />
-     <None Include="Assets\Chairs and sofas pack\Readme.txt" />
      <None Include="Assets\UnityChan\license.txt" />
      <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_fuku_ds.shader" />
      <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_eye_blend.shader" />
