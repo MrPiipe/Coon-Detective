@@ -48,13 +48,10 @@
   <ItemGroup>
      <Compile Include="Assets\Assets\Scripts\ButtonStart.js" />
      <Compile Include="Assets\Assets\Scripts\MouseOrbitZoom.js" />
-     <None Include="Assets\plants\dd\AlphaTest-Bumped.shader" />
      <None Include="Assets\Skybox\README.txt" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
      <None Include="Assets\Standard Assets\Cameras\CameraGuidelines.txt" />
-     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
-     <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>A:/Programs/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
