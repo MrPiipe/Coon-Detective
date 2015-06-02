@@ -1,7 +1,5 @@
 fileFormatVersion: 2
 guid: 3d8675433a508ec47b8f895201eacf20
-timeCreated: 1433274694
-licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: JumpButton
@@ -53,4 +51,3 @@ TextureImporter:
   spritePackingTag: 
   userData: 
   assetBundleName: 
-  assetBundleVariant: 

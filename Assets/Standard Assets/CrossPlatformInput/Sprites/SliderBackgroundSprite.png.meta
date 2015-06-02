@@ -1,7 +1,5 @@
 fileFormatVersion: 2
 guid: ea5873cfd9158664f89459f0c9e1d853
-timeCreated: 1433274722
-licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: SliderBackground
@@ -53,4 +51,3 @@ TextureImporter:
   spritePackingTag: 
   userData: 
   assetBundleName: 
-  assetBundleVariant: 
